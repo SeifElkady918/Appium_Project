@@ -1,0 +1,14 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "DriverService_gRPC";
+
+service DriverService_gRPC {
+  rpc OpenSettings (OpenSettingsRequest) returns (OpenSettingsResponse);
+}
+
+message OpenSettingsRequest {}
+
+message OpenSettingsResponse {}
+
+
+

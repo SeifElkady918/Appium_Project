@@ -1,0 +1,2 @@
+obj\Debug\Protos/DriverProto.cs \
+obj\Debug\Protos/DriverProtoGrpc.cs: Protos/Driver_Proto.proto

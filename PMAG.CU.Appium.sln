@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMAG.CU.Appium.Tool", "PMAG.CU.Appium.Tool\PMAG.CU.Appium.Tool.csproj", "{BBA97627-73C8-4370-B67B-17BF37E0BEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMAG.CU.Appium.Client", "PMAG.CU.Appium.Client\PMAG.CU.Appium.Client.csproj", "{8A7BCA61-457B-4FD0-BC1C-750AD0FE81F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appium_Test_Arch", "..\Appium_Test_Arch\Appium_Test_Arch\Appium_Test_Arch.csproj", "{59D95F2D-5EA5-44A1-8CD5-109C579369C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMAG.CU.Appium.Server", "PMAG.CU.Appium.Service\PMAG.CU.Appium.Server.csproj", "{7EA33F60-953C-41C7-BF82-5C3EAAB8AA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA97627-73C8-4370-B67B-17BF37E0BEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA97627-73C8-4370-B67B-17BF37E0BEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA97627-73C8-4370-B67B-17BF37E0BEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA97627-73C8-4370-B67B-17BF37E0BEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7BCA61-457B-4FD0-BC1C-750AD0FE81F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7BCA61-457B-4FD0-BC1C-750AD0FE81F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7BCA61-457B-4FD0-BC1C-750AD0FE81F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7BCA61-457B-4FD0-BC1C-750AD0FE81F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D95F2D-5EA5-44A1-8CD5-109C579369C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D95F2D-5EA5-44A1-8CD5-109C579369C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D95F2D-5EA5-44A1-8CD5-109C579369C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D95F2D-5EA5-44A1-8CD5-109C579369C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA33F60-953C-41C7-BF82-5C3EAAB8AA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA33F60-953C-41C7-BF82-5C3EAAB8AA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA33F60-953C-41C7-BF82-5C3EAAB8AA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA33F60-953C-41C7-BF82-5C3EAAB8AA06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE93BB0D-770E-4D3A-8F29-ADC3D044E8E7}
+	EndGlobalSection
+EndGlobal
